@@ -1,3 +1,4 @@
+vitalwatch pro
 We recently built a basic but functional smart health assistant using Arduino and Python — designed to monitor patient room conditions and potential risks in real-time.
 
 🧰 Technologies Used:
